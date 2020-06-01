@@ -1,2 +1,2 @@
-rootProject.name = "mp-share"
-
+rootProject.name = "kmp-share"
+include("kmp-common")
