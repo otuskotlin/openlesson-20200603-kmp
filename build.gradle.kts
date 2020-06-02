@@ -6,5 +6,6 @@ allprojects {
         google()
         jcenter()
         mavenCentral()
+        maven("http://repository.jetbrains.com/all")
     }
 }
