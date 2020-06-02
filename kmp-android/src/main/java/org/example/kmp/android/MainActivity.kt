@@ -7,9 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.coroutines.Dispatchers
 import org.example.front.front_android.R
-import kotlin.coroutines.CoroutineContext
 
 class MainActivity : AppCompatActivity() {
 
